@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ontario-sunshine/static/css/main.d20202a4.css",
-    "main.js": "/ontario-sunshine/static/js/main.aceb8d16.js",
+    "main.js": "/ontario-sunshine/static/js/main.2c0c23de.js",
     "static/js/787.80c54e73.chunk.js": "/ontario-sunshine/static/js/787.80c54e73.chunk.js",
     "static/media/logo.png": "/ontario-sunshine/static/media/logo.bd75f4458b471aae4a26.png",
     "index.html": "/ontario-sunshine/index.html",
     "main.d20202a4.css.map": "/ontario-sunshine/static/css/main.d20202a4.css.map",
-    "main.aceb8d16.js.map": "/ontario-sunshine/static/js/main.aceb8d16.js.map",
+    "main.2c0c23de.js.map": "/ontario-sunshine/static/js/main.2c0c23de.js.map",
     "787.80c54e73.chunk.js.map": "/ontario-sunshine/static/js/787.80c54e73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.aceb8d16.js"
+    "static/js/main.2c0c23de.js"
   ]
 }
